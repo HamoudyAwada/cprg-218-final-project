@@ -8,5 +8,17 @@ body{
 
 header{
     display: flex;
+    flex-direction: column;
+}
+
+.navi{
+    display: flex;
+    list-style-type: none;
     background-color: red;
+}
+
+.temp{
+    display: flex;
+    list-style-type: none;
+    background-color: blue;
 }
