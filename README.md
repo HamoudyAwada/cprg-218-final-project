@@ -28,3 +28,13 @@ All media and word assets were provided through the assignment folder on D2L unl
 [Brown and Beige Straw Basket](https://www.pexels.com/photo/brown-and-beige-straw-basket-6634661/) is original work by Vlada Karpovich under the Pexels license.
 
 [Pink Brush](https://www.pexels.com/photo/pink-brush-361754/) is original work by freestocks.org under the Pexels license.
+
+[Women Performing Yoga on Green Grass Near Trees](https://www.pexels.com/photo/women-performing-yoga-on-green-grass-near-trees-1472887/) is original work by Rui Dias under the Pexels license.
+
+[Two People Riding A Jet Ski](https://www.pexels.com/photo/two-people-riding-a-jet-ski-1430676/) is original work by Asad Photo Maldives under the Pexels license.
+
+[Photo of Person Swimming Near School of Clown Fish](https://www.pexels.com/photo/photo-of-person-swimming-near-school-of-clown-fish-2744596/) is original work by Bagus Tri Kuncoro .J under the Pexels license.
+
+[Three People Diving On Body Of Water](https://www.pexels.com/photo/three-people-diving-on-body-of-water-1540108/) is original work by Alex P under the Pexels license.
+
+[Colorful Day of the Dead Parade Costume](https://www.pexels.com/photo/colorful-day-of-the-dead-parade-costume-31605902/) is original work by Robert Stokoe under the Pexels license.
