@@ -4,7 +4,7 @@ fetch("https://api.openweathermap.org/data/2.5/weather?q=Cancun&appid=7519ed8775
     console.log(data)
     console.log(data.main.temp)
 
-    temperature.textContent = "Temperature: " + data.main.temp + "\u00B0C";
+    temperature.textContent = "Cancun: " + data.main.temp + "\u00B0C";
 
 
     const weathericon = 'https://openweathermap.org/img/wn/' + data.weather[0].icon + "@2x.png";

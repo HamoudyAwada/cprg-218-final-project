@@ -1,93 +1,135 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body{
     font-family: 'Poppins', 'sans-serif';
 }
 
-header {
+header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     background: linear-gradient(to bottom, skyblue, #e6f7ff);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* I know I'm using px here. I hope that's alright!*/
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
-  
-  /* Navigation menu styling */
-  .navi {
+
+.navi {
     display: flex;
     align-items: center;
     list-style: none;
-    margin: 0;
-    padding: 0;
   }
   
   .navi li {
     margin-left: 2rem;
   }
-  
+
   .navi li:first-child {
     margin-left: 0;
   }
   
   .navi a {
-    color: #333;
+    color: #232222;
     text-decoration: none;
-    font-weight: 500;
-    transition: color 0.3s ease;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    transition: color 0.5s ease;
   }
-  
+
   .navi a:hover {
     color: #0088cc;
   }
-  
-  .navi img {
-    height: 40px;
+
+  .navi img{
+    height: 3.2rem;
     width: auto;
   }
-  
-  /* Temperature display styling */
+
   .temp {
     display: flex;
     align-items: center;
     list-style: none;
-    margin: 0;
-    padding: 0;
   }
-  
+
   .temp img {
-    height: 24px;
+    height: 2.8rem;
     width: auto;
     margin-right: 0.5rem;
   }
   
-  #temperature {
-    font-weight: 500;
+  h1 {
+    font-size: 2.5rem;
+    color: #0088cc;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-weight: 400;
+    padding-bottom: 1rem;
   }
   
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    header {
-      flex-direction: column;
-      padding: 1rem;
-    }
-    
-    .navi {
-      margin-bottom: 1rem;
-    }
-    
-    .navi li {
-      margin-left: 1rem;
-    }
+  h2 {
+    font-size: 2rem;
+    color: #0088cc;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    font-weight: 400;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    color: #00a0b0;
+    margin-bottom: 0.25rem;
+    margin-left: 1rem;
+    font-weight: 400;
+  }
+  
+  p {
+    margin-bottom: 5rem;
+    margin-left: 1rem;
+    color: #555555;
   }
 
-    h1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 1.5rem;
+  a {
+    color: #0088cc;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.5s ease;
   }
+  
+  a:hover {
+    color: turquoise;
+  }
+
+  button {
+    background-color: #0088cc;
+    color: white;
+    border: none;
+    padding: 0.75rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: turquoise;
+  }
+  
+  .list{
+    margin-left: 2rem;
+  }
+
+
+  .separation{
+    border: 2px solid black;
+    margin-top: 5rem;
+  }
+
