@@ -13,3 +13,4 @@ fetch("https://api.openweathermap.org/data/2.5/weather?q=Cancun&appid=7519ed8775
     
     icon.src = weathericon
 });
+

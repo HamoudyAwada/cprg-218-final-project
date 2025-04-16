@@ -25,47 +25,47 @@ header{
     display: flex;
     align-items: center;
     list-style: none;
-  }
+}
   
-  .navi li {
+.navi li {
     margin-left: 2rem;
-  }
+}
 
-  .navi li:first-child {
+.navi li:first-child {
     margin-left: 0;
-  }
+}
   
-  .navi a {
+.navi a {
     color: #232222;
     text-decoration: none;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     transition: color 0.5s ease;
-  }
+}
 
-  .navi a:hover {
+.navi a:hover {
     color: #0088cc;
-  }
+}
 
-  .navi img{
+.navi img{
     height: 3.2rem;
     width: auto;
-  }
+}
 
-  .temp {
+.temp {
     display: flex;
     align-items: center;
     list-style: none;
-  }
+}
 
-  .temp img {
+.temp img {
     height: 2.8rem;
     width: auto;
     margin-right: 0.5rem;
-  }
+}
   
-  h1 {
+h1 {
     font-size: 2.5rem;
     color: #0088cc;
     text-align: center;
@@ -73,42 +73,42 @@ header{
     margin-bottom: 2rem;
     font-weight: 400;
     padding-bottom: 1rem;
-  }
+}
   
-  h2 {
+h2 {
     font-size: 2rem;
     color: #0088cc;
     margin-bottom: 1rem;
     margin-left: 1rem;
     font-weight: 400;
-  }
+}
   
-  h3 {
+h3 {
     font-size: 1.5rem;
     color: #00a0b0;
     margin-bottom: 0.25rem;
     margin-left: 1rem;
     font-weight: 400;
-  }
+}
   
-  p {
+p {
     margin-bottom: 5rem;
     margin-left: 1rem;
     color: #555555;
-  }
+}
 
-  a {
+a {
     color: #0088cc;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.5s ease;
-  }
+}
   
-  a:hover {
+a:hover {
     color: turquoise;
-  }
+}
 
-  button {
+button {
     background-color: #0088cc;
     color: white;
     border: none;
@@ -117,19 +117,25 @@ header{
     cursor: pointer;
     font-weight: bold;
     transition: background-color 0.3s ease;
-  }
+}
   
-  button:hover {
+button:hover {
     background-color: turquoise;
-  }
+}
   
-  .list{
+.list{
     margin-left: 2rem;
-  }
+}
 
-
-  .separation{
-    border: 2px solid black;
+.separation{
+    border: 1.5px solid #232222;
     margin-top: 5rem;
-  }
+    margin-right: 1rem;
+}
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+}
