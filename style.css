@@ -28,6 +28,16 @@ header{
     list-style: none;
 }
   
+@media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      padding: 1rem;
+    }
+    
+    .navi {
+      margin-bottom: 1rem;
+    }
+}
 .navi li {
     margin-left: 2rem;
 }
