@@ -22,3 +22,9 @@ All media and word assets were provided through the assignment folder on D2L unl
 [Hotel Interior Design](https://www.pexels.com/photo/hotel-interior-design-6634469/) is original work by Tom D'Arby under the Pexels license.
 
 [Chairs and Tables in Hotel](https://www.pexels.com/photo/chairs-and-tables-in-hotel-3201921/) is original work by Qyark Studio under the Pexels license.
+
+[Topless Woman Lying on Bed Getting Massage](https://www.pexels.com/photo/topless-woman-lying-on-bed-getting-massage-3757952/) is original work by Andrea Piacquadio under the Pexels license.
+
+[Brown and Beige Straw Basket](https://www.pexels.com/photo/brown-and-beige-straw-basket-6634661/) is original work by Vlada Karpovich under the Pexels license.
+
+[Pink Brush](https://www.pexels.com/photo/pink-brush-361754/) is original work by freestocks.org under the Pexels license.
